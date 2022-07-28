@@ -74,4 +74,4 @@ if (dragonOff > eaglesDef) {
 }
 console.log(dragonScore);
 
-//Add an if statement to the while loop that will only let the Dragons make a goal if their offense ability is greater than the Eagles’ defense ability.
+//Add an if statement to the while loop that will only let the Dragons make a goal if their offense ability is greater than the Eagles’ defense ability. ^^
